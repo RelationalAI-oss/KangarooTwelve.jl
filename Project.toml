@@ -1,6 +1,6 @@
 name = "KangarooTwelve"
 uuid = "e59daee0-1d5e-42ae-b2e9-5ecfbc0ca10a"
-authors = ["Rob Vermaas <rob.vermaas@gmail.com>"]
+authors = ["Tim Sheard <tim.sheard@relational.ai>"]
 version = "0.1.0"
 
 [deps]
